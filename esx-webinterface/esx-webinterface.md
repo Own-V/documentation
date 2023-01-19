@@ -1,4 +1,11 @@
-# 👋 Welcome to OwnV
+---
+description: >-
+  Elevate your roleplay server with our advanced ESX web interface for FiveM.
+  Manage all aspects of your virtual world with ease. Upgrade now and stand out
+  from the rest
+---
+
+# 👋 ESX Webinterface
 
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
@@ -32,14 +39,14 @@ Here are a couple of example overviews from products with really great docs:
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="esx-webinterface/getting-set-up/" %}
-[getting-set-up](esx-webinterface/getting-set-up/)
+{% content-ref url="getting-set-up/" %}
+[getting-set-up](getting-set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="esx-webinterface/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](esx-webinterface/getting-set-up/setting-permissions.md)
+{% content-ref url="getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](getting-set-up/setting-permissions.md)
 {% endcontent-ref %}
 
-{% content-ref url="esx-webinterface/getting-set-up/inviting-members.md" %}
-[inviting-members.md](esx-webinterface/getting-set-up/inviting-members.md)
+{% content-ref url="getting-set-up/inviting-members.md" %}
+[inviting-members.md](getting-set-up/inviting-members.md)
 {% endcontent-ref %}
