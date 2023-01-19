@@ -4,10 +4,22 @@
 
 <summary>Debian 8/9</summary>
 
-```r
 # Setting up a Node.js Server on Debian 9
 
 1. Install Node.js and npm on Debian 9:
+
+```r
+\`\`\`
+sudo apt-get update
+sudo apt-get install nodejs
+sudo apt-get install npm
+\`\`\`
+
+
+
+```
+
+```r
 \`\`\`
 sudo apt-get update
 sudo apt-get install nodejs
