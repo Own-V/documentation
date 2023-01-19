@@ -32,14 +32,14 @@ Here are a couple of example overviews from products with really great docs:
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="esx-webinterface-1/getting-set-up/" %}
-[getting-set-up](esx-webinterface-1/getting-set-up/)
+{% content-ref url="esx-webinterface/getting-set-up/" %}
+[getting-set-up](esx-webinterface/getting-set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="esx-webinterface-1/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](esx-webinterface-1/getting-set-up/setting-permissions.md)
+{% content-ref url="esx-webinterface/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](esx-webinterface/getting-set-up/setting-permissions.md)
 {% endcontent-ref %}
 
-{% content-ref url="esx-webinterface-1/getting-set-up/inviting-members.md" %}
-[inviting-members.md](esx-webinterface-1/getting-set-up/inviting-members.md)
+{% content-ref url="esx-webinterface/getting-set-up/inviting-members.md" %}
+[inviting-members.md](esx-webinterface/getting-set-up/inviting-members.md)
 {% endcontent-ref %}
