@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to our ESX Webinterface](README.md)
+* [👋 Welcome to OwnV](README.md)
 
 ## Overview
 
