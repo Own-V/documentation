@@ -1,24 +1,26 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [👋 Welcome to OwnV](<README (1).md>)
+* [👋 Welcome to OwnV](README.md)
 * [👋 ESX Webinterface](esx-webinterface.md)
 
 ## Overview
 
 * [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [✨ Our Products](overview/our-products.md)
+
+## ESX Webinterface
+
+* [💡 What we do](esx-webinterface-1/what-we-do.md)
+* [✨ Our Features](esx-webinterface-1/our-features.md)
+* [🛠 Getting set up](esx-webinterface-1/getting-set-up/README.md)
+  * [📝 Setting permissions](esx-webinterface-1/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](esx-webinterface-1/getting-set-up/inviting-members.md)
+* [📪 Making a post](esx-webinterface-1/making-a-post.md)
+* [📎 Understanding Projects](esx-webinterface-1/understanding-projects.md)
 
 ## Product Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
 ## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
 
 ## Use Cases
 
