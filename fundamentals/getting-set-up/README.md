@@ -2,13 +2,14 @@
 
 <details>
 
-<summary>Step1: Creating your organization</summary>
+<summary>Install Node.js and npm on Debian 9</summary>
 
-install Node.js and npm on Debian 9: &#x20;
-
+``\
 `sudo apt-get update`\
 `sudo apt-get install nodejs` \
 `sudo apt-get install npm`
+
+
 
 </details>
 
