@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>Debian 8/9</summary>
+<summary>Debian 9</summary>
 
 ## Setting up a Node.js Server on Debian 9
 
@@ -32,8 +32,6 @@ node esx-webinterface.js
 Verify that the server is running by visiting [http://localhost:3000](http://localhost:3000)
 
 To stop the server, press `CTRL + C` in the terminal where the server is running.&#x20;
-
-
 
 That's it! Your ESX-Webinterface server should now be up and running on Debian 9.
 
