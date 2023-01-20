@@ -8,15 +8,10 @@
 
 1. Install Node.js and npm on Debian 9:
 
-```r
-\`\`\`
+```bash
 sudo apt-get update
 sudo apt-get install nodejs
 sudo apt-get install npm
-\`\`\`
-
-
-
 ```
 
 ```r
