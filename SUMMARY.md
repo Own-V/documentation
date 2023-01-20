@@ -12,15 +12,11 @@
 * [👋 ESX Webinterface](esx-webinterface/esx-webinterface.md)
 * [💡 What we do](esx-webinterface/what-we-do.md)
 * [✨ Our Features](esx-webinterface/our-features.md)
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Product Guides
-
-## Fundamentals
+* [🛠 Getting set up](esx-webinterface/getting-set-up/README.md)
+  * [📝 Setting permissions](esx-webinterface/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](esx-webinterface/getting-set-up/inviting-members.md)
+* [📪 Making a post](esx-webinterface/making-a-post.md)
+* [📎 Understanding Projects](esx-webinterface/understanding-projects.md)
 
 ## Use Cases
 
